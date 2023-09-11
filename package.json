@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Glory Ada Ogondah",
+	"author": "Glory Ada Ogbondah",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
